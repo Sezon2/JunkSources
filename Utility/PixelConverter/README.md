@@ -41,7 +41,7 @@ https://qiita.com/yyama2/items/20bdf5e914c20025498a
 Masterのライセンスに準拠します。  
 
 ## ■パッケージ公開
-https://drive.google.com/open?id=11N8CQ2HHZ-_x_JM6rPRWaLH9GSf4lzC-  
+<https://drive.google.com/drive/folders/1L7blhJKMz1WXUuzJIj4JFKu7lTokG8Tn>  
 
 ## ■mdファイルの書き方について
 GitHubで使われるドキュメントの形式「*.md」について、  
