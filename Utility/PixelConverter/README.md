@@ -2,9 +2,9 @@
 過去の産物。元々「std::vector」のインスタンス化方法で  
 
 ```cpp:vector init
-int org_data[] = {4, 6, 5};						// 元データ
-std::vector<int> data(org_data, org_data + 3);	// 元データから動的配列を生成
-```(
+int org_data[] = {4, 6, 5};                   // 元データ
+std::vector<int> data(org_data, org_data + 3);// 元データから動的配列を生成
+```
 
 上記のような方法があったので、それを生のメモリに対して、ポインタで偽装して、  
 vectorに動的配列を作らせ、その処理中に行なわれる、各要素のインスタンス化処理時に  
