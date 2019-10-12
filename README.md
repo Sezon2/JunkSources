@@ -4,6 +4,7 @@
 |ブランチ名       |バージョン|
 |:---------------|:-------|
 |CPP_SwfPlayerLib|v1.00   |
+|CPP_AppStdLib   |v1.00   |
 
 ## ■ライセンスの取り扱いについて
 https://ja.wikipedia.org/wiki/MIT_License  
